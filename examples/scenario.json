@@ -1,0 +1,12 @@
+{
+  "name": "本轮只标一项",
+  "settings": {
+    "budget": 1,
+    "groupCap": 1
+  },
+  "checkpoint": {
+    "metric": "picked",
+    "expected": 1,
+    "absoluteTolerance": 1e-10
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "metrics": {
+    "picked": 2,
+    "unused": 0
+  },
+  "row": {
+    "id": "B",
+    "reason": "来源配额已满"
+  }
+}

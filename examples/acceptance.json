@@ -1,0 +1,33 @@
+{
+  "title": "主动标注抽样验收样本",
+  "settings": {
+    "budget": 2,
+    "groupCap": 1
+  },
+  "rows": [
+    {
+      "id": "A",
+      "group": "客服",
+      "probabilities": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "B",
+      "group": "客服",
+      "probabilities": [
+        0.6,
+        0.4
+      ]
+    },
+    {
+      "id": "C",
+      "group": "门户",
+      "probabilities": [
+        1,
+        0
+      ]
+    }
+  ]
+}

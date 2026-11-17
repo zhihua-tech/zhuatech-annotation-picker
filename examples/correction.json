@@ -1,0 +1,14 @@
+{
+  "row": 0,
+  "id": "A",
+  "field": "probabilities",
+  "before": [
+    0.5,
+    0.5
+  ],
+  "after": [
+    0.7,
+    0.3
+  ],
+  "reason": "重录样本概率分布"
+}

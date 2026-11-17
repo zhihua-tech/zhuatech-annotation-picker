@@ -1,0 +1,13 @@
+{
+  "metrics": {
+    "coveredGroups": 2,
+    "totalGroups": 2
+  },
+  "row": {
+    "group": "客服",
+    "pickedIds": [
+      "A"
+    ],
+    "reserveId": "B"
+  }
+}
